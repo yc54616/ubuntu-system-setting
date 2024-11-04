@@ -43,4 +43,6 @@ dash to dock
 https://brown.ezphp.net/entry/Ubuntu-Dash-to-Dock-%EC%A4%91%EB%B3%B5-%ED%91%9C%EC%8B%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0
 https://www.gnome-look.org/p/1357889
 
+6. zsh
+https://heetop.github.io/Ubuntu-ZSH-Setting/
 
