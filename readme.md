@@ -28,7 +28,7 @@ https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys
 sudo sh vmware[~].bundle
 sudo apt install gcc-12 g++-12
 vmware -> secure boot -> 17.5.1 최신버전
-https://www.bearpooh.com/25 (vmmon error)
+[https://www.bearpooh.com/25](https://blog.kimzuni.com/posts/vmware-kernel-module-updater-error/) (vmmon error)
 https://m.blog.naver.com/snova84/223393374449 (속도 빠르게)
 
 카카오톡 -> wine
