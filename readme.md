@@ -18,8 +18,8 @@ https://staraube.tistory.com/105
 알림 사용안함
 
 
-4. program install 
-chrome
+4. program install
+firefox
 
 htop
 
@@ -31,6 +31,9 @@ vmware -> secure boot -> 17.5.1 최신버전
 [https://www.bearpooh.com/25](https://blog.kimzuni.com/posts/vmware-kernel-module-updater-error/) (vmmon error)
 https://m.blog.naver.com/snova84/223393374449 (속도 빠르게)
 
+Windows 앱 돌리기
+https://github.com/Fmstrat/winapps
+------------------------------------
 카카오톡 -> 
 https://blog.kimzuni.com/posts/linux-install-kakaotalk/ (bottles, runner caffe-9.2 짱좋음) 
 ---------------
@@ -41,12 +44,13 @@ https://ashton0410.tistory.com/entry/ubuntu%EC%9A%B0%EB%B6%84%ED%88%AC-wine%EC%9
 discord, spoitfy, vscode, docker, rstudio, 
 
 5. gnome look-org
+ubuntu24.04 적용: https://extensions.gnome.org/extension/3019/user-themes-x/ 
 https://techhut.tv/favorite-gnome-gtk-themes-icons/
 dash to dock
 https://brown.ezphp.net/entry/Ubuntu-Dash-to-Dock-%EC%A4%91%EB%B3%B5-%ED%91%9C%EC%8B%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0
 https://www.gnome-look.org/p/1357889
 
-6. zsh setting
+7. zsh setting
 https://medium.com/@satriajanaka09/setup-zsh-oh-my-zsh-powerlevel10k-on-ubuntu-20-04-c4a4052508fd
 https://heetop.github.io/Ubuntu-ZSH-Setting/
 
