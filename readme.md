@@ -44,7 +44,6 @@ https://ashton0410.tistory.com/entry/ubuntu%EC%9A%B0%EB%B6%84%ED%88%AC-wine%EC%9
 discord, spoitfy, vscode, docker, rstudio, 
 
 5. gnome look-org
-ubuntu24.04 적용: https://extensions.gnome.org/extension/3019/user-themes-x/ 
 https://techhut.tv/favorite-gnome-gtk-themes-icons/
 dash to dock
 https://brown.ezphp.net/entry/Ubuntu-Dash-to-Dock-%EC%A4%91%EB%B3%B5-%ED%91%9C%EC%8B%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0
