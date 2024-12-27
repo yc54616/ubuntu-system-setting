@@ -16,7 +16,7 @@ https://staraube.tistory.com/105
 홈폴더 설정 super + e
 캡처 super + shift + s
 알림 사용안함
-
+gnome-system-monitor esc+shift+ctrl
 
 4. program install
 firefox
