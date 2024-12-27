@@ -2,6 +2,8 @@ ubuntu 22.04 english -> normal install, wift connect after utility install
 
 sudo nopassword 설정
 
+https://gitlab.gnome.org/ error
+
 1. ubuntu software update
 
 2. kaist mirror server change
