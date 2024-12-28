@@ -42,6 +42,7 @@ https://blog.kimzuni.com/posts/linux-install-kakaotalk/ (bottles, runner caffe-9
 wine
 https://goyunji.tistory.com/154 (wine install)
 https://ashton0410.tistory.com/entry/ubuntu%EC%9A%B0%EB%B6%84%ED%88%AC-wine%EC%99%80%EC%9D%B8-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B6%94%EA%B0%80-%EC%82%AD%EC%A0%9C-%ED%95%9C%EA%B8%80-%EA%B9%A8%EC%A7%90-%EB%B2%84%EC%A0%BC%ED%99%95%EC%9D%B8 (작업 관리자 한글) -> malgun.ttf 받아서 굴림대신 넣기
+https://www.reddit.com/r/leagueoflinux/comments/wqbciq/how_to_install_emoji_fonts_inside_leagues/ (특수 문자 오류)
 
 discord, spoitfy, vscode, docker, rstudio, 
 
