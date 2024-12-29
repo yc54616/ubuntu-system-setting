@@ -42,10 +42,9 @@ https://blog.kimzuni.com/posts/linux-install-kakaotalk/ (bottles, runner caffe-9
 wine
 https://goyunji.tistory.com/154 (wine install)
 https://ashton0410.tistory.com/entry/ubuntu%EC%9A%B0%EB%B6%84%ED%88%AC-wine%EC%99%80%EC%9D%B8-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B6%94%EA%B0%80-%EC%82%AD%EC%A0%9C-%ED%95%9C%EA%B8%80-%EA%B9%A8%EC%A7%90-%EB%B2%84%EC%A0%BC%ED%99%95%EC%9D%B8 (작업 관리자 한글) -> malgun.ttf 받아서 굴림대신 넣기
-https://ruados.github.io/articles/2021-05/office365-wine (office 설치)
-https://kjvvv.kr/470369 (bottle로 여기 의존성 다 설치하고, windows 7으로 설치)
-https://askubuntu.com/questions/975104/how-do-i-install-ms-office-2016-on-playonlinux (이게 진짜) 
-### playonlinux로 설치하기
+https://ruados.github.io/articles/2021-05/office365-wine (wine 설치)
+https://gist.github.com/DerEros/6d028d6d43b893ba57aa23328dd2b1f4 (의존성 설치, export 2개 추가)
+https://askubuntu.com/questions/879304/wine-2-0-says-it-supports-office-2013-how-do-i-actually-install-it (나머지 오류 설정)
 
 discord, spoitfy, vscode, docker, rstudio, 
 
