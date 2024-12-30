@@ -45,6 +45,7 @@ https://ashton0410.tistory.com/entry/ubuntu%EC%9A%B0%EB%B6%84%ED%88%AC-wine%EC%9
 https://ruados.github.io/articles/2021-05/office365-wine (wine 설치)
 https://gist.github.com/DerEros/6d028d6d43b893ba57aa23328dd2b1f4 (의존성 설치, export 2개 추가)
 https://askubuntu.com/questions/879304/wine-2-0-says-it-supports-office-2013-how-do-i-actually-install-it (나머지 오류 설정)
+https://forum.winehq.org/viewtopic.php?t=32057 (reg 설정)
 
 discord, spoitfy, vscode, docker, rstudio, 
 
