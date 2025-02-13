@@ -20,6 +20,8 @@ https://staraube.tistory.com/105
 알림 사용안함
 gnome-system-monitor esc+shift+ctrl
 
+https://velog.io/@ljwljy51/Ubuntu-22.04-Google-Docs-%ED%95%9C%EA%B8%80-%EC%9E%85%EB%A0%A5-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88
+
 4. program install
 firefox
 
